@@ -34,13 +34,17 @@ body {
   font-size:26px;
   }
 
-  .invalid-feedback {
+.invalid-feedback {
     color: #ff3333;
     background-color: #FFEEEE;
     border-radius: 3px;
     padding: 2px 8px 2px 8px;
-  }
+}
 
-  #map {
+#map {
       height: 300px;
-    }
+}
+
+.clear {
+  clear: both;
+}
